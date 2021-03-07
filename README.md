@@ -1,6 +1,6 @@
 # WebCrawler
 This is a simple one thread web crawler.
 
-#Instructions
+# Instructions
 
 Download JSoup and add it to your project via properties 
